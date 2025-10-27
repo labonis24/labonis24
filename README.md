@@ -1,4 +1,7 @@
-## Hi there 👋
+## ⭐Hey there⭐
+### I am Laboni Shimo, a current student at LVTI's Programming and Web Shop.👩‍💻⭐
+### I am currently learning 
+- [ ] Java
 
 <!--
 **labonis24/labonis24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
