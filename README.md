@@ -1,8 +1,8 @@
 ## ⭐Hey there⭐
 ### I am Laboni Shimo, a current student at LVTI's Programming and Web Shop.👩‍💻⭐
 ### I am currently learning 
-- [ ] Java
-
+- [ ] JavaScript 
+### I am excited to learn more and apply my knowledge to real-life applications. 
 <!--
 **labonis24/labonis24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
